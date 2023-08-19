@@ -17,6 +17,17 @@ This is a simple calculator program written in Python that performs basic arithm
 - Multiplication: Multiply two numbers.
 - Division: Divide the first number by the second number, handling division by zero.
 
+##Example
+Select operation:
+
+Add
+Subtract
+Multiply
+Divide
+Enter choice (1/2/3/4): 1
+Enter first number: 5
+Enter second number: 3
+5.0 + 3.0 = 8.0
 
 ## Note
 
